@@ -1,10 +1,11 @@
 import React from "react";
+import Popular from "./assets/Components/Popular";
+import Home from "./assets/Pages/Home";
 
 const App = () => {
   return (
     <>
-      <div>App</div>
-      <h1>Hello how are you</h1>
+    <Home/>
     </>
   );
 };
