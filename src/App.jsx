@@ -5,14 +5,7 @@ import Home from "./assets/Pages/Home";
 const App = () => {
   return (
     <>
-    <h1>jdnsjdskdjs </h1>
-    <h1>jdnsjdskdjs </h1>
-    <h1>jdnsjdskdjs </h1>
-    <h1>jdnsjdskdjs </h1>
-    <h1>jdnsjdskdjs </h1>
-    <h1>jdnsjdskdjs </h1>
-    <h1>jdnsjdskdjs </h1>
-    <h1>dsjdsjdskjdsj</h1>
+
     <Home/>
     </>
   );
